@@ -5,6 +5,7 @@ public class chd {
         System.out.println("等天黑");
         //只能增
         System.out.println("16515616651651651");
+        System.out.println("16515616651651651");
 
         }
     }
